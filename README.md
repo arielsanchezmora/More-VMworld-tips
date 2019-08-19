@@ -29,7 +29,7 @@ The following is a little bit different - it's part experience and thought proce
 VMworld is full of decisions for every hour of the day. I’m hoping that by sharing these tips you will get more enjoyment out of VMworld!  
 
 ## Sessions
-By now you have probably heard that you shouldn't focus too much on sessions since most of them are recorded. That is true but it's important to understand which are not recorded. The ones that are not recorded are anything that seems like a workshop; anything that is a meeting, especially executive meetings such as the one TAM customers get, and anything that is small or requires NDA. Small sessions may only get audio recording and when you go look for their video it's just slides with audio.  
+By now you have probably heard that you shouldn't focus too much on sessions since most of them are recorded. That is true but it's important to understand which are not recorded. The ones that are not recorded are anything that seems like a workshop; anything that is a meeting, especially executive meetings such as the ones TAM customers get, and anything that is small or requires NDA. Small sessions may only get audio recording and when you go look for their video it's just slides with audio.  
 
 In general, apply this rule:   
 -	If the session has information that you are looking for, and  
