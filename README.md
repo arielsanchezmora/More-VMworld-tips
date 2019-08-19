@@ -7,7 +7,7 @@ There's a lot of great blog posts out there for VMworld. I wanted to add my own 
 [Sessions](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Sessions)  
 [Expo floor](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Expo-Floor)  
 [Moving around](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Moving-around)  
-[What’s really important](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#What%27s-really-important)  
+[What’s really important](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#What-s-really-important)  
 [Shoes, endurance, clothing](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Shoes%2C-endurance%2C-clothing)  
 [Navigating Parties](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Navigating-Parties)  
 [Be safe](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Be-safe)  
