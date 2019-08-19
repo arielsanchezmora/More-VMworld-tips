@@ -90,7 +90,7 @@ Parties can be fun. The speakeasys in San Fran are a fun bit of history and they
 
 ## Twitter and vCommunity  
 
-Finally, and I can't stress this enough, make sure you use and take advantage of the vCommunity and all the Twitter hashtags. Twitter is a great way to disseminate information quickly. I will be very aware of at least #vmworld #vbrownbag and #vmworldhackathon hashtags during the events.  
+Finally, and I can't stress this enough, make sure you use and take advantage of the vCommunity and all the Twitter hashtags. Twitter is a great way to disseminate information quickly. I will be very aware of at least [#vmworld](https://twitter.com/search?q=%23VMworld&f=live) [#vbrownbag](https://twitter.com/search?q=%23vbrownbag&f=live) and [#vmworldhackathon](https://twitter.com/search?q=%23VMworldHackathon&f=live) hashtags during the events.  
 
 ## But what about…  
 
