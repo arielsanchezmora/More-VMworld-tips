@@ -6,14 +6,14 @@ There's a lot of great blog posts out there for VMworld. I wanted to add my own 
 [Introduction](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Introduction)  
 [Sessions](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Sessions)  
 [Expo floor](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Expo-Floor)  
-Moving around  
-What’s really important  
-Shoes, endurance, clothing  
-Navigating Parties  
-Be safe  
-What if loud parties are not for me?  
-Twitter and vCommunity 
-But what about…  
+[Moving around](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Moving-around)  
+[What’s really important](](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#What's-really-important)  
+[Shoes, endurance, clothing](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Shoes,-endurance,-clothing)  
+[Navigating Parties](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Navigating-Parties)  
+[Be safe](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Be-safe)  
+[What if loud parties are not for me?](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#What-if-loud-parties-are-not-for-me?)  
+[Twitter and vCommunity](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Twitter-and-vCommunity)  
+[But what about…](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#But-what-about-...)  
 
 
 # Introduction
