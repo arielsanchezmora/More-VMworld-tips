@@ -3,7 +3,7 @@
 There's a lot of great blog posts out there for VMworld. I wanted to add my own thoughts about how to navigate that intense week. I'm also doing this as a community effort - please send me PRs to add your own insights!
 
 
-Introduction  
+[Introduction](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Introduction)  
 Sessions  
 Expo floor  
 Moving around  
