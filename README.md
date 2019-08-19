@@ -24,7 +24,7 @@ There are a lot of blog posts out there that give you VMworld tips. I did a quic
 - https://vmblog.com/archive/2018/07/25/vmworld-2018-survival-guide-key-tips-planning-and-takeaways.aspx#.XVY0I-hKiUk
 - https://www.reddit.com/r/vmware/comments/4skmip/first_vmworld_what_tips_did_you_wish_you_had/  
 
-The following is a little bit different - it's part experience and thought process. It's how I decided on how much time I will spend at a certain activity and how I weigh to make one choice over another, in my past life as customer. VMworld is full of decisions for every hour of the day. I’m hoping that by sharing these tips you will get more enjoyment out of VMworld!  
+The following is a little bit different - it's part experience and thought process. It's how I decided on how much time I would spend at a certain activity and how I weighed one choice over another, in my past life as customer. VMworld is full of decisions for every hour of the day. I’m hoping that by sharing these tips you will get more enjoyment out of VMworld!  
 
 ## Sessions
 By now you have probably heard that you shouldn't focus too much on sessions since most of them are recorded. That is true but it's important to understand which are not recorded. The ones that are not recorded are anything that seems like a workshop; anything that is a meeting, especially executive meetings such as the one TAM customers get, and anything that is small or requires NDA. Small sessions may only get audio recording and when you go look for their video it's just slides with audio.  
