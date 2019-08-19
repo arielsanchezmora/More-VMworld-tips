@@ -4,8 +4,8 @@ There's a lot of great blog posts out there for VMworld. I wanted to add my own 
 
 
 [Introduction](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Introduction)  
-Sessions  
-Expo floor  
+[Sessions](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Sessions)  
+[Expo floor](https://github.com/arielsanchezmora/More-VMworld-tips/blob/master/README.md#Expo%23Floor  
 Moving around  
 What’s really important  
 Shoes, endurance, clothing  
