@@ -1,6 +1,6 @@
 # Additional VMworld tips
 
-There's a lot of great blog posts out there for VMworld. But I wanted to add my own thoughts about how to navigate that week. I'm also doing this as a community effort - please send me PRs to add your own insights!
+There's a lot of great blog posts out there for VMworld. I wanted to add my own thoughts about how to navigate that intense week. I'm also doing this as a community effort - please send me PRs to add your own insights!
 
 
 Introduction  
@@ -24,19 +24,19 @@ There are a lot of blog posts out there that give you VMworld tips. I did a quic
 - https://vmblog.com/archive/2018/07/25/vmworld-2018-survival-guide-key-tips-planning-and-takeaways.aspx#.XVY0I-hKiUk
 - https://www.reddit.com/r/vmware/comments/4skmip/first_vmworld_what_tips_did_you_wish_you_had/  
 
-The following is a little bit different - it's thought processes, it's how I decide on how much time I will spend at a certain activity, or what should you weigh to make one choice over another. VMworld is full of decisions for every hour of the day. I’m hoping that by sharing these tips you will get more enjoyment over VMworld.  
+The following is a little bit different - it's part experience and thought process. It's how I decided on how much time I will spend at a certain activity and how I weigh to make one choice over another, in my past life as customer. VMworld is full of decisions for every hour of the day. I’m hoping that by sharing these tips you will get more enjoyment out of VMworld!  
 
 ## Sessions
-By now you have probably heard that you shouldn't focus too much on sessions since most of them are recorded. That is true but it's important to understand which are not recorded. The ones that are not recorded are anything that seems like a workshop; anything that is a meeting, especially executive meetings such as the one TAMs customers get, and anything that is small. Small sessions may only get audio recording and when you go look for their video it's just slides against the audio.  
+By now you have probably heard that you shouldn't focus too much on sessions since most of them are recorded. That is true but it's important to understand which are not recorded. The ones that are not recorded are anything that seems like a workshop; anything that is a meeting, especially executive meetings such as the one TAM customers get, and anything that is small or requires NDA. Small sessions may only get audio recording and when you go look for their video it's just slides with audio.  
 
 In general, apply this rule:   
 -	If the session has information that you are looking for, and  
--	You think you may have questions that you want to ask at the end of the session (by the way, get up as soon as you have the question and make the line in the microphones, waiting to be 3rd in line may mean you don’t get to ask it!), and  
+-	You think you may have questions that you want to ask at the end of the session (by the way, get up as soon as you have the question and make the line in the microphones, waiting and being 3rd in line may mean you don’t get to ask it!), and  
 -	you want to talk to the speaker or at least be able to create a relationship and get their name   
 
 You should go to the session.   
 
-If you can take a meeting or sit down with an expert to discuss your case (2-way communication) instead of going to a popular session and watch the recording later, you should probably take that meeting. As a TAM, it’s so helpful when you can give me a name of one of our specialists that you already established some communication with to make sure you get proper follow-up.  
+If you can take a meeting and sit down with an expert to discuss your case (2-way communication) instead of going to a popular session and watch the recording later, you should probably take that meeting. Remember to write down who you spoke with, and hopefully their title. As a TAM, it’s so helpful when you can give me the name of one of our specialists that you already established some communication with.  
 
 That is not to say that you should not go to sessions. For some things you need the information as soon as possible and if you don't go to the session you have to accept that the recordings are not going to come out very quickly. They will take at least a week and in some cases, it can take considerably more time before you watch all of them.  
 
